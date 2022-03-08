@@ -13,11 +13,13 @@ This repository is our C++ implementation of the CVPR 2022 paper, Geometric Stru
 1. Download code and comile.
 	* You need  **Opencv 4.4.0**,**VLFEAT**,**Eigen**
 2. Download dataset to "input-data" folder.
-3. Edit "RUN_EXE.bat". Change "file=\RUN_FILE.txt" and "\GES_Stitching.exe" to your project path.
-4. List data you going to test in "RUN_FILE.txt".
-5. Click "RUN_EXE.bat".
-6. You can find results in folder "input-data".
-Notice:If you make changes to the code and run it, you can copy .exe from the "x64" to the root directory, and rename it to "GES_Stitching.exe".  
+3. Edit "RUN_EXE.bat". 
+	* Change "file=\RUN_FILE.txt" and "\GES_Stitching.exe" to your project path.
+5. List dataset names you want to test in "RUN_FILE.txt".
+6. Click "RUN_EXE.bat".
+7. You can find results in folder "input-data".
+
+Notice: If you make changes to the code and run it, you can copy .exe from the "x64" to the root directory, and rename it to "GES_Stitching.exe".  
 
 ### Contact
 
