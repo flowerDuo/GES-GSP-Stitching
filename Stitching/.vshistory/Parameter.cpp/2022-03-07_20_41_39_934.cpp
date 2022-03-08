@@ -50,14 +50,14 @@ bool isFileExist(const string& name) {
 Parameter::Parameter(const string& _file_name) {
 
 	file_name = _file_name;
-	file_dir = "./input-data/" + _file_name + "/";
-	result_dir = "./input-data/0_results/" + _file_name + "-result/";
+	file_dir = "./input-42-data/" + _file_name + "/";
+	result_dir = "./input-42-data/0_results/" + _file_name + "-result/";
 
-	_mkdir("./input-data/0_results/");
+	_mkdir("./input-42-data/0_results/");
 	_mkdir(result_dir.c_str());
 #ifndef DP_NO_LOG
-	debug_dir = "./input-data/1_debugs/" + _file_name + "-result/";
-	_mkdir("./input-data/1_debugs/");
+	debug_dir = "./input-42-data/1_debugs/" + _file_name + "-result/";
+	_mkdir("./input-42-data/1_debugs/");
 	_mkdir(debug_dir.c_str());
 #endif
 
