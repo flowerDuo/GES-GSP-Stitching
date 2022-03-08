@@ -14,6 +14,8 @@
 *.userprefs
 
 # Build results
+input-data/0_results
+input-data/1_debugs
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
