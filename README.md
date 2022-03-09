@@ -1,6 +1,6 @@
 # GES-ImageStitching
 
-This repository is our C++ implementation of the CVPR 2022 paper, Geometric Structure Preserving Warp for Natural Image Stitching. If you use any code or data from our work, please cite our paper.
+This repository is our C++ implementation of the CVPR 2022 paper, ***Geometric Structure Preserving Warp for Natural Image Stitching***. If you use any code or data from our work, please cite our paper.
 
 ### Download
 
