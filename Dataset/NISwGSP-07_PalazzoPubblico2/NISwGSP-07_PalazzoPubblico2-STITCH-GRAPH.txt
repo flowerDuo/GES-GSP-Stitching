@@ -1,0 +1,13 @@
+{center_image_index | 4 | center image index}
+{center_image_rotation_angle | 0 | center image rotation angle}
+{images_count | 11 | images count}
+{matching_graph_image_edges-0 | 1,3 | matching graph image edge 0}
+{matching_graph_image_edges-1 | 2 | matching graph image edge 1}
+{matching_graph_image_edges-2 | 3,5 | matching graph image edge 2}
+{matching_graph_image_edges-3 | 4 | matching graph image edge 3}
+{matching_graph_image_edges-4 | 5,7 | matching graph image edge 4}
+{matching_graph_image_edges-5 | 6,7 | matching graph image edge 5}
+{matching_graph_image_edges-6 | 7,8,9 | matching graph image edge 6}
+{matching_graph_image_edges-7 | 8 | matching graph image edge 7}
+{matching_graph_image_edges-8 | 9,10 | matching graph image edge 8}
+{matching_graph_image_edges-9 | 10 | matching graph image edge 9}
