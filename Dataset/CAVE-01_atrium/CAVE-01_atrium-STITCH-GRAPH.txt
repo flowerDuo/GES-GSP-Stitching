@@ -1,0 +1,37 @@
+{center_image_index | 18 | center image index}
+{center_image_rotation_angle | -0.069813 | center image rotation angle}
+{images_count | 35 | images count}
+{matching_graph_image_edges-0 | 1 | matching graph image edge 0}
+{matching_graph_image_edges-1 | 2,3,5,6 | matching graph image edge 1}
+{matching_graph_image_edges-2 | 3,5 | matching graph image edge 2}
+{matching_graph_image_edges-3 | 4 | matching graph image edge 3}
+{matching_graph_image_edges-4 | 5,11 | matching graph image edge 4}
+{matching_graph_image_edges-5 | 6,9 | matching graph image edge 5}
+{matching_graph_image_edges-6 | 7,8,9 | matching graph image edge 6}
+{matching_graph_image_edges-7 | 8,9 | matching graph image edge 7}
+{matching_graph_image_edges-8 | 9,15 | matching graph image edge 8}
+{matching_graph_image_edges-9 | 10 | matching graph image edge 9}
+{matching_graph_image_edges-10 | 11,13 | matching graph image edge 10}
+{matching_graph_image_edges-11 | 12 | matching graph image edge 11}
+{matching_graph_image_edges-12 | 13,19 | matching graph image edge 12}
+{matching_graph_image_edges-13 | 14 | matching graph image edge 13}
+{matching_graph_image_edges-14 | 15 | matching graph image edge 14}
+{matching_graph_image_edges-15 | 16 | matching graph image edge 15}
+{matching_graph_image_edges-16 | 17,24 | matching graph image edge 16}
+{matching_graph_image_edges-17 | 18,23 | matching graph image edge 17}
+{matching_graph_image_edges-18 | 19 | matching graph image edge 18}
+{matching_graph_image_edges-19 | 20,21 | matching graph image edge 19}
+{matching_graph_image_edges-20 | 21,29 | matching graph image edge 20}
+{matching_graph_image_edges-21 | 22,29 | matching graph image edge 21}
+{matching_graph_image_edges-22 | 23 | matching graph image edge 22}
+{matching_graph_image_edges-23 | 24 | matching graph image edge 23}
+{matching_graph_image_edges-24 | 25 | matching graph image edge 24}
+{matching_graph_image_edges-25 | 26,34 | matching graph image edge 25}
+{matching_graph_image_edges-26 | 27,33 | matching graph image edge 26}
+{matching_graph_image_edges-27 | 28,32 | matching graph image edge 27}
+{matching_graph_image_edges-28 | 29 | matching graph image edge 28}
+{matching_graph_image_edges-29 | 30 | matching graph image edge 29}
+{matching_graph_image_edges-30 | 31 | matching graph image edge 30}
+{matching_graph_image_edges-31 | 32 | matching graph image edge 31}
+{matching_graph_image_edges-32 | 33 | matching graph image edge 32}
+{matching_graph_image_edges-33 | 34 | matching graph image edge 33}
