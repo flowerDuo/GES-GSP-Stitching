@@ -1,15 +1,25 @@
 # Geometric Structure Preserving Warp for Natural Image Stitching
 
-
-
 This repository contains our dataset and C++ implementation of the CVPR 2022 paper, ***Geometric Structure Preserving Warp for Natural Image Stitching***. If you use any code or data from our work, please cite our paper.
 
-## Code
 
-### Download
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://github.com/aalallalalal/GES-GSP-Stitching/blob/master/Images/CAVE-PLAYGROUND.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure 1. An example of 10 images stitching. (a) The AutoStitch's [8] result is severely distorted. (b) The person on the right side is distorted in the APAP's [7] result. (c) Several misalignments (red and green closeup) in the ELA's [9] result. (d) The SPW's [10] result exhibits significant wrong scale at the right end. (e) There are distortions in the red box, for example, the floor and carpet are curved in the result of GSP [2]. (f) Our result preserves the salient geometric structures in scene.</div>
+</center>
+
+## Download
 
 1. [Paper](...)
 2. [Supplementary](...)
+
+## Code
 
 ### Usage
 
@@ -55,7 +65,11 @@ stitching. In Proceedings of the IEEE Conference on Computer Vision and Pattern 
 IEEE Conference on Computer Vision and Pattern Recognition, pages 1155–1163, 2015.*
 > 6. *Yoshikuni Nomura, Li Zhang, and Shree K Nayar. Scene collages and flexible camera arrays. In Proceedings of the 18th Eurographics conference on Rendering Techniques, pages
 127–138, 2007.*
-> 7. *Julio Zaragoza, Tat-Jun Chin, Michael S Brown, and David Suter. As-projective-as-possible image stitching with moving dlt. In Proceedings of the IEEE Conference on Computer
-Vision and Pattern Recognition, pages 2339–2346, 2013.*
+> 7. *Julio Zaragoza, Tat-Jun Chin, Michael S Brown, and David Suter. As-projective-as-possible image stitching with moving dlt. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pages 2339–2346, 2013.*
+> 8. *Matthew Brown and David G Lowe. Automatic panoramic image stitching using invariant features. International journal of computer vision, 74(1):59–73, 2007.* 
+> 9. *Jing Li, Zhengming Wang, Shiming Lai, Yongping Zhai, and Maojun Zhang. Parallax-tolerant image stitching based on robust elastic warping. IEEE Transactions on multimedia,
+20(7):1672–1687, 2017.*
+> 10. *Tianli Liao and Nan Li. Single-perspective warps in natural image stitching. IEEE Transactions on Image Processing, 29:724–735, 2019.*
+
 
 
