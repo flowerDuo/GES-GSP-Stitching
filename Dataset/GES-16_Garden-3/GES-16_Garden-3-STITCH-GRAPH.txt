@@ -1,0 +1,10 @@
+{center_image_index | 1 | center image index}
+{center_image_rotation_angle | 0 | center image rotation angle}
+{images_count | 8 | images count}
+{matching_graph_image_edges-0 | 1 | matching graph image edge 0}
+{matching_graph_image_edges-1 | 2 | matching graph image edge 1}
+{matching_graph_image_edges-2 | 3 | matching graph image edge 2}
+{matching_graph_image_edges-3 | 4 | matching graph image edge 3}
+{matching_graph_image_edges-4 | 5 | matching graph image edge 4}
+{matching_graph_image_edges-5 | 6 | matching graph image edge 5}
+{matching_graph_image_edges-6 | 7 | matching graph image edge 6}
