@@ -31,7 +31,7 @@
     <Filter Include="源文件\model">
       <UniqueIdentifier>{4cf81042-0e1f-4be4-a6c8-6726b6869a69}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\Test">
+    <Filter Include="Test">
       <UniqueIdentifier>{26765cb5-f503-4e2e-b45d-409bc09d7e6d}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -87,6 +87,9 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="lsd.cpp">
+      <Filter>源文件\Feature</Filter>
+    </ClCompile>
     <ClCompile Include="Util\Thin.cpp">
       <Filter>源文件\Util</Filter>
     </ClCompile>
@@ -94,10 +97,7 @@
       <Filter>源文件\Util</Filter>
     </ClCompile>
     <ClCompile Include="Test\Test.cpp">
-      <Filter>源文件\Test</Filter>
-    </ClCompile>
-    <ClCompile Include="lsd.cpp">
-      <Filter>源文件</Filter>
+      <Filter>Test</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -168,7 +168,7 @@
       <Filter>源文件\Util</Filter>
     </ClInclude>
     <ClInclude Include="Test\Test.h">
-      <Filter>源文件\Test</Filter>
+      <Filter>Test</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
