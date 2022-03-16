@@ -11,7 +11,7 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Figure 1. An example of 10 images stitching. (a) The AutoStitch's [8] result is severely distorted. (b) The person on the right side is distorted in the APAP's [7] result. (c) Several misalignments (red and green closeup) in the ELA's [9] result. (d) The SPW's [10] result exhibits significant wrong scale at the right end. (e) There are distortions in the red box, for example, the floor and carpet are curved in the result of GSP [2]. (f) Our result preserves the salient geometric structures in scene.</div>
+    padding: 2px;">Figure 1. An example of stitching 10 images. (a) The AutoStitch's [8] result is severely distorted. (b) The person on the right side is distorted in the APAP's [7] result. (c) Several misalignments (red and green closeup) in the ELA’s [9] result. (d) The SPW's [10] result exhibits significant wrong scale at the right end. (e) There are distortions in the red box, e.g., the floor and carpet are curved in the result obtained by GSP [2]. (f) Our result preserves the salient geometric structures in scene.</div>
 </center>
 
 ## Download
@@ -27,15 +27,21 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 	* You need  **Opencv 4.4.0**,**VLFEAT**,**Eigen**
 2. Download dataset to "input-data" folder.
 3. Run project.
+
+Or
+
 4. We provide scripts that make it easier to test data. The following are the steps:
 5. Edit "RUN_EXE.bat". 
 	* Change "file=\RUN_FILE.txt" and "\GES_Stitching.exe" to corresponding path.
 5. List dataset names you want to test in "RUN_FILE.txt".
 6. Click "RUN_EXE.bat".
-
+Notice: 
+	* If you make changes to the code, you can copy .exe from the "x64" to the root directory and rename it to "GES_Stitching.exe" after running project.
+	* If the .exe output errors, try to run the project to get a new .exe.
+	
 You can find results in folder "input-data".
 
-Notice: If you make changes to the code and run it, you can copy .exe from the "x64" to the root directory, and rename it to "GES_Stitching.exe".  
+  
 
 
 ## Dataset
