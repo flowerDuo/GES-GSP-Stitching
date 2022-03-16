@@ -35,9 +35,10 @@ Or
 	* Change "file=\RUN_FILE.txt" and "\GES_Stitching.exe" to corresponding path.
 5. List dataset names you want to test in "RUN_FILE.txt".
 6. Click "RUN_EXE.bat".
-Notice: 
-	* If you make changes to the code, you can copy .exe from the "x64" to the root directory and rename it to "GES_Stitching.exe" after running project.
-	* If the .exe output errors, try to run the project to get a new .exe.
+
+Notice:
+* If you make changes to the code, you can copy .exe from the "x64" to the root directory and rename it to "GES_Stitching.exe" after running project.
+* If the .exe output errors, try to run the project to get a new .exe.
 	
 You can find results in folder "input-data".
 
