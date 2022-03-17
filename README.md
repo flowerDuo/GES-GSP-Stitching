@@ -18,10 +18,18 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 
 1. [Paper](...)
 2. [Supplementary](...)
+3. Code
+	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Code)
+	* [Google NetDisk]()
+	* [Baidu NetDisk]()
+5. Data 
+	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Dataset)
+	* [Google NetDisk]()
+	* [Baidu NetDisk]()
 
 ## Code
 
-### Usage
+### 1. Usage
 
 1. Download code and comile.
 	* You need  **Opencv 4.4.0**,**VLFEAT**,**Eigen**
@@ -47,10 +55,10 @@ You can find results in folder "input-data".
 
 ## Dataset
 
-### Introduction
+### 1. Introduction
 There are 50 diversified and challenging dataset (26 from [1–7] and 24 collected by ourselves). The numbers of images range from 2 to 35.
 
-### Usage
+### 2. Usage
 1. Copy dataset to folder "input-data" in project.
 2. Make sure the file "xxx-STITCH-GRAPH.txt" in each dataset correspond to the name of this dataset.
 3. You can change the relation between the images by modifying the file "xxx-STITCH-GRAPH.txt".
