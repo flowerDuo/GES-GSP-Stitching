@@ -22,7 +22,7 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Code)
 	* [Google NetDisk]()
 	* [Baidu NetDisk]()
-5. Data 
+5. DataSet (GES-50)
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Dataset)
 	* [Google NetDisk]()
 	* [Baidu NetDisk]()
