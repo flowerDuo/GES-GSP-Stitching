@@ -22,7 +22,7 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Code)
 	* [Google NetDisk]()
 	* [Baidu NetDisk](https://pan.baidu.com/s/1yW8uRkCKdtuwLQ-4gkOCww?pwd=u88k)
-5. DataSet (GES-50)
+4. DataSet (GES-50)
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Dataset)
 	* [Google NetDisk]()
 	* [Baidu NetDisk](https://pan.baidu.com/s/1zTqYPo0xBDuCsaHNWw5N8Q?pwd=4keq)
@@ -31,18 +31,18 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 
 ### 1. Usage
 
-1. Download code and comile.
-	* You need  **Opencv 4.4.0**,**VLFEAT**,**Eigen**
-2. Download dataset to "input-data" folder.
-3. Run project.
+	(1). Download code and comile.
+		You need Opencv 4.4.0, VLFEAT, Eigen.
+	(2). Download dataset to "input-data" folder.
+	(3). Run project.
 
 Or
 
-4. We provide scripts that make it easier to test data. The following are the steps:
-5. Edit "RUN_EXE.bat". 
-	* Change "file=\RUN_FILE.txt" and "\GES_Stitching.exe" to corresponding path.
-5. List dataset names you want to test in "RUN_FILE.txt".
-6. Click "RUN_EXE.bat".
+	(4). We provide scripts that make it easier to test data. The following are the steps:
+	(5). Edit "RUN_EXE.bat". 
+		Change "file=\RUN_FILE.txt" and "\GES_Stitching.exe" to corresponding path.
+	(6). List dataset names you want to test in "RUN_FILE.txt".
+	(7). Click "RUN_EXE.bat".
 
 Notice:
 * If you make changes to the code, you can copy .exe from the "x64" to the root directory and rename it to "GES_Stitching.exe" after running project.
@@ -59,9 +59,9 @@ You can find results in folder "input-data".
 There are 50 diversified and challenging dataset (26 from [1–7] and 24 collected by ourselves). The numbers of images range from 2 to 35.
 
 ### 2. Usage
-1. Copy dataset to folder "input-data" in project.
-2. Make sure the file "xxx-STITCH-GRAPH.txt" in each dataset correspond to the name of this dataset.
-3. You can change the relation between the images by modifying the file "xxx-STITCH-GRAPH.txt".
+	(1). Copy dataset to folder "input-data" in project.
+	(2). Make sure the file "xxx-STITCH-GRAPH.txt" in each dataset correspond to the name of this dataset.
+	(3). You can change the relation between the images by modifying the file "xxx-STITCH-GRAPH.txt".
 
 ## Contact
 
