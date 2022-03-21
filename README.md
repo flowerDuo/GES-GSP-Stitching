@@ -16,8 +16,8 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 
 ## Download
 
-1. [Paper](...)
-2. [Supplementary](...)
+1. [Paper(available soon)]()
+2. [Supplementary(available soon)]()
 3. Code
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Code)
 	* [Baidu NetDisk](https://pan.baidu.com/s/1yW8uRkCKdtuwLQ-4gkOCww?pwd=u88k)
