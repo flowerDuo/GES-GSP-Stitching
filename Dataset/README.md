@@ -1,16 +1,23 @@
 
-# Dataset
-
-## Download
-
+# GES-GSP_50-Dataset
 
 ## Introduction
+This repository contains the dataset of the CVPR 2022 paper, ***Geometric Structure Preserving Warp for Natural Image Stitching***. 
+
 There are 50 diversified and challenging dataset (26 from [1–7] and 24 collected by ourselves). The numbers of images range from 2 to 35.
 
-## Usage
-	(1). Copy dataset to folder "input-data" in project.
+## Download
+* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Dataset)
+
+* [Google NetDisk](https://drive.google.com/file/d/1SlQ2P9nW9PW4hUGemDvv6uCy75byDPq8/view?usp=sharing)
+
+* [Baidu NetDisk](https://pan.baidu.com/s/1zTqYPo0xBDuCsaHNWw5N8Q?pwd=4keq)
+
+## Usage ([Project&Code](https://github.com/flowerDuo/GES-GSP-Stitching))
+	(1). Copy dataset to folder "input-data" in project. 
 	(2). Make sure the file "xxx-STITCH-GRAPH.txt" in each dataset correspond to the name of this dataset.
 	(3). You can change the relation between the images by modifying the file "xxx-STITCH-GRAPH.txt".
+
 
 # Reference
 > 1. *Che-Han Chang, Yoichi Sato, and Yung-Yu Chuang. Shapepreserving half-projective warps for image stitching. In Proceedings of the IEEE Conference on Computer Vision and
