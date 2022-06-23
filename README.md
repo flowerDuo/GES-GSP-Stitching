@@ -16,12 +16,11 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 
 ## Download
 
-1. [Paper(available soon)]()
-2. [Supplementary(available soon)]()
-3. Code
+1. [Paper+Supplementary](https://openaccess.thecvf.com/content/CVPR2022/html/Du_Geometric_Structure_Preserving_Warp_for_Natural_Image_Stitching_CVPR_2022_paper.html)
+2. Code
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Code)
 	* [Baidu NetDisk](https://pan.baidu.com/s/16OoMjeEiOLHIxv8shB1dFw?pwd=h5vi)
-4. DataSet (GES-50)
+3. DataSet (GES-50)
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Dataset)
 	* [Google NetDisk](https://drive.google.com/file/d/1SlQ2P9nW9PW4hUGemDvv6uCy75byDPq8/view?usp=sharing)
 	* [Baidu NetDisk](https://pan.baidu.com/s/1ok-yYw1Ww77ARZ6tiHxgjA?pwd=7zjv)
