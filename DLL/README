@@ -1,1 +1,3 @@
 
+The project uses OpencV4.4 and VLFeat0.9.21
+Here are the DLL files that the EXE may need. However, it is recommended to use formal methods to build up the environment.
