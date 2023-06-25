@@ -96,7 +96,7 @@ We feel sorry, but currently this application only supports Chinese. However, yo
     padding: 2px;">Figure 2 Part of the software screenshot</div>
 </center>
 
-### 4. For trial
+### 4. Account application
 Welcome to download the Android application. If you need a trial account, please contact us via email(lin9@nwafu.edu.cn)
 
 
