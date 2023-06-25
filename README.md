@@ -24,6 +24,9 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Dataset)
 	* [Google NetDisk](https://drive.google.com/file/d/1SlQ2P9nW9PW4hUGemDvv6uCy75byDPq8/view?usp=sharing)
 	* [Baidu NetDisk](https://pan.baidu.com/s/1ok-yYw1Ww77ARZ6tiHxgjA?pwd=7zjv)
+4. Android Appication(Harmony)
+    * [Server download](http://mosica.nat300.top/aic/mosaic.apk)
+    * [Baidu NetDisk](https://pan.baidu.com/s/1f4HkxKF7I71Be4W6awnpKw?pwd=s8vi )
 
 ## Code
 
@@ -60,6 +63,42 @@ There are 50 diversified and challenging dataset (26 from [1–7] and 24 collect
 	(1). Copy dataset to folder "input-data" in project.
 	(2). Make sure the file "xxx-STITCH-GRAPH.txt" in each dataset correspond to the name of this dataset.
 	(3). You can change the relation between the images by modifying the file "xxx-STITCH-GRAPH.txt".
+
+## Android(Harmony) Application
+
+### 1. Introduction
+Based on the C++ implementation of the CVPR 2022 paper, 
+Geometric Structure Preserving Warp for Natural Image Stitching, we have developed an Android(Harmony) application.
+
+With our Android(Harmony) application,
+you can easily perform image stitching and obtain large-scale images in various fields 
+such as cultural tourism, smart agriculture, and security monitoring. 
+You can effortlessly complete the stitching process with astonishing speed while ensuring high-quality results
+
+We feel sorry, but currently this application only supports Chinese. However, you can follow our instructions to use it.
+
+### 2. Guide
+	(1). Download and install the package on an Android(Harmony) phone.
+	(2). Apply for a trial account and log in.
+	(3). Select to import from the gallery or capture images for stitching.
+	(4). Select 'Speed Priority' or 'Quality Priority' and then click on the top-right corner to start the stitching process.
+	(5). After obtaining the stitching result, you can choose to perform operations such as cropping, saving, sharing, and more.
+
+### 3. Part of the software screenshot
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://github.com/flowerDuo/GES-GSP-Stitching/blob/master/Images/guide3.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure 2 Part of the software screenshot</div>
+</center>
+
+### 4. For trial
+Welcome to download the Android application. If you need a trial account, please contact us via email(lin9@nwafu.edu.cn)
+
 
 ## Contact
 
