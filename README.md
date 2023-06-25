@@ -24,7 +24,7 @@ This repository contains our dataset and C++ implementation of the CVPR 2022 pap
 	* [GitHub](https://github.com/flowerDuo/GES-GSP-Stitching/tree/master/Dataset)
 	* [Google NetDisk](https://drive.google.com/file/d/1SlQ2P9nW9PW4hUGemDvv6uCy75byDPq8/view?usp=sharing)
 	* [Baidu NetDisk](https://pan.baidu.com/s/1ok-yYw1Ww77ARZ6tiHxgjA?pwd=7zjv)
-4. Android Appication(Harmony)
+4. [Android Appication(Harmony)](http://mosica.nat300.top/aic/mosaic.apk)
     * [Server download](http://mosica.nat300.top/aic/mosaic.apk)
     * [Baidu NetDisk](https://pan.baidu.com/s/1f4HkxKF7I71Be4W6awnpKw?pwd=s8vi )
 
